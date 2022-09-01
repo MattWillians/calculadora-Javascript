@@ -12,7 +12,7 @@
 <li>Multiplicações</li>
 </ul>
 
-<p>o programa pode ser testado<a href="https://jseditor.io/?key=calculadora-simples">neste site</a></p>
+<p>o programa pode ser testado <a href="https://jseditor.io/?key=calculadora-simples">neste site</a></p>
 <br>
 <h3>Deseja fazer parte do 7-DAYS-OF-CODE? <a href="https://7daysofcode.io/">CLIQUE AQUI!!!<a> é de graça!</h3>
 <br>
