@@ -1,5 +1,5 @@
 <h1>CALCULADORA EM JAVASCRIPT</h1>
-<p>Este programa faz parte do 7-DAYS-OF-CODE, oferecido pela plataforma <a href="https://www.alura.com.br/">ALURA<a></p>
+<p>Este programa faz parte do 7-DAYS-OF-CODE oferecido pela plataforma <a href="https://www.alura.com.br/">ALURA<a></p>
 <br>
 <p>Esta é uma calculadora SIMPLES feita em JAVASCRIPT como ultimo projeto do SEVEN DAYS OF CODE!</p>
 <br>

@@ -67,7 +67,7 @@ while (true){
                 break;
     
             default:
-                alert("Opção Inexistente");
+                alert("Opção Inexistente")
         }
     }
 }
